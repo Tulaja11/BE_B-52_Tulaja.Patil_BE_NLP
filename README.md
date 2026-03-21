@@ -1,0 +1,2 @@
+# BE_B-52_Tulaja.Patil_BE_NLP
+NLP PRACTICALS
